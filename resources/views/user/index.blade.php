@@ -19,7 +19,7 @@
 
         <div class="row">
             <div class="col-lg-4" data-aos="fade-right">
-            <img src="{{ url('/user/assets/img/patel.jpg') }}" class="img-fluid" alt="">
+            <img src="user/assets/img/patel.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
@@ -259,9 +259,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -269,9 +269,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -279,9 +279,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -289,9 +289,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -299,9 +299,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -309,9 +309,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -319,9 +319,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -329,9 +329,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -339,9 +339,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-                <img src="/user/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                <img src="user/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="/user/assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="user/assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
@@ -416,7 +416,7 @@
                 Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="/user/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <img src="user/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
             </div>
@@ -429,7 +429,7 @@
                 Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="/user/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <img src="user/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
             </div>
@@ -442,7 +442,7 @@
                 Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="/user/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <img src="user/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
             </div>
@@ -455,7 +455,7 @@
                 Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="/user/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <img src="user/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
             </div>
@@ -468,7 +468,7 @@
                 Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="/user/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <img src="user/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
             </div>
