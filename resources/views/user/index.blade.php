@@ -1,5 +1,13 @@
 @extends('user.layout.masters')
 @section('content')
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+        <div class="hero-container" data-aos="fade-in">
+        <h1>@if(empty(auth()->user() )) Kamlesh Patel  @else {{ auth()->user()->name }} @endif</h1>
+        <p>I'm <span class="typed" data-typed-items="Designer,Laravel Developer, Freelancer, Photographer"></span></p>
+        </div>
+    </section><!-- End Hero -->
+
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container">
@@ -11,7 +19,7 @@
 
         <div class="row">
             <div class="col-lg-4" data-aos="fade-right">
-            <img src="user/assets/img/patel.jpg" class="img-fluid" alt="">
+            <img src="{{ url('/user/assets/img/patel.jpg') }}" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
