@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\EnquiryController;
+use App\Http\Controllers\BiodataController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -25,6 +26,7 @@ Route::get('user_logout',[AuthController::class,'user_logout']);
 
 Route::middleware(['auth'])->group(function () {
     Route::get('dashboard',[AuthController::class,'dashboard'])->name('dashboard');
+    Route::get('biodata',[BiodataController::class,'biodata']);
 });
 
 //user
