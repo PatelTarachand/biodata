@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('full_name',70);
             $table->string('dob',15);
             $table->string('gender',10);
+            $table->string('contact_number',10);
             $table->timestamps();
         });
     }
