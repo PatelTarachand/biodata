@@ -27,7 +27,15 @@ Route::get('user_logout',[AuthController::class,'user_logout']);
 Route::middleware(['auth'])->group(function () {
     Route::get('dashboard',[AuthController::class,'dashboard'])->name('dashboard');
     Route::get('biodata',[BiodataController::class,'biodata']);
+    Route::post('storePersonalDetails',[BiodataController::class,'storePersonalDetails']);
+    Route::post('storeProfessionalDetails',[BiodataController::class,'storeProfessionalDetails']);
+    Route::post('storeFamilyDetails',[BiodataController::class,'storeFamilyDetails']);
+    Route::post('storeEducationDetails',[BiodataController::class,'storeEducationDetails']);
+    Route::post('storeAddressDetails',[BiodataController::class,'storeAddressDetails']);
+    Route::post('storeLandDetails',[BiodataController::class,'storeLandDetails']);
+    Route::post('storeMaternalDetails',[BiodataController::class,'storeMaternalDetails']);
 });
+
 
 //user
 Route::get('/', function () {
