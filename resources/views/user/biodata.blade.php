@@ -9,25 +9,25 @@
         <div class="row justify-content-center">
             <div class="col-md-8" style="margin-top:10%">
                 <div class="card shadow">
-                    <div class="row m-4">
+                    <div class="row m-4 justify-content-center">
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($personal_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($professional_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($family_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($education_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($address_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($land_details>0) {{ "background-color:green;" }} @endif "></div>
-                        <div style="width:8%"><hr></div>
+                        <div style="width:7%"><hr></div>
                         <div style="border:1px solid black; border-radius:50%; margin-left:2%; width:5%;
                             @if($maternal_details>0) {{ "background-color:green;" }} @endif "></div>
                     </div>
