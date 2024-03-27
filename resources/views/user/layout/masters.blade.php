@@ -70,7 +70,7 @@
           <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="{{ url('biodata') }}" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Biodata</span></a></li>
-          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+          <li><a href="{{ url('preview') }}" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Preview</span></a></li>
           <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
           <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
           @if(empty(auth()->user()))
@@ -101,7 +101,6 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Biodata-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">Biodata</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
