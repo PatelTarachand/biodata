@@ -105,4 +105,17 @@ class BiodataController extends Controller
             return back()->with('error','Maternal Details is Not Added');
         }
     }
+
+    public function preview(Request $request){
+        $user_id=auth()->user()->id;
+        $personal_details=DB::table('personal_details')->where('user_id',$user_id)->get();
+        $professional_details=DB::table('professional_details')->where('user_id',$user_id)->get();
+        $family_details=DB::table('family_details')->where('user_id',$user_id)->get();
+        $education_details=DB::table('education_details')->where('user_id',$user_id)->get();
+        $address_details=DB::table('address_details')->where('user_id',$user_id)->get();
+        $land_details=DB::table('land_details')->where('user_id',$user_id)->get();
+        $maternal_details=DB::table('maternal_details')->where('user_id',$user_id)->get();
+        return view('user.preview',compact('personal_details','professional_details','family_details','education_details','address_details',
+            'land_details','maternal_details'));
+    }
 }
